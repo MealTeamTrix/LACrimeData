@@ -1,9 +1,9 @@
 # Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
+This project is "Analzying Crime in Los Angeles" project in Datacamp.
 
 ## Description
-Optional section to provide a more detailed overview of the project.
-
-## Getting Started
-Optional section to summarize important steps and how to use the project & apps in the project
+The purpose of this project is to analyze the crimes.csv data to answer the following:
+1. Which hour has the highest frequency of crimes?
+2. Which area has the largest frequency of night crimes?
+3. Identify the number of crimes committed against victimes of different age groups.
 
