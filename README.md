@@ -1,5 +1,5 @@
 # Project Name
-This project is "Analzying Crime in Los Angeles" project in Datacamp.
+This is the "Analzying Crime in Los Angeles" project in Datacamp.
 
 ## Description
 The purpose of this project is to analyze the crimes.csv data to answer the following:
